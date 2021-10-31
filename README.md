@@ -1,3 +1,4 @@
+# Konsep 1
 1. Seteng dan Labuhan Badas memiliki jarak pada suatu peta adalah 10 cm. Jika jarak 
 sebenarnya antara Seteng dan Labuhan Badas adalah 220 km. Maka berapakah skala 
 peta tersebut jika berdasarkan satuan cm?
