@@ -23,7 +23,7 @@ peta tersebut jika berdasarkan satuan cm?
 ![image](https://github.com/IsmedQalyubi/9.Praktikum-Individu/blob/main/Screenshot%20(151).png) 
 2. Dalam sebuah peta memiliki skala 1:5.000.000, jarak antara Seteng dan Labuhan Badas 
 adalah 20 cm. Berapakah jarak sesungguhnya antara Seteng dan Labuhan Badas?
-![image](
+![image](https://github.com/IsmedQalyubi/9.Praktikum-Individu/blob/main/Capture%205.PNG) 
 ![image](
 3. Misalnya jika jarak antara kecematan Seteng dengan Kecamatan Labuhan Badas pada 
 peta dengan skala batang adalah 4 ruas. Dan untuk satu ruas pada peta tersebut 
