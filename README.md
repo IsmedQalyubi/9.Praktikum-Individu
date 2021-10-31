@@ -18,7 +18,7 @@ sesungguhnya?
 1. Seteng dan Labuhan Badas memiliki jarak pada suatu peta adalah 10 cm. Jika jarak 
 sebenarnya antara Seteng dan Labuhan Badas adalah 220 km. Maka berapakah skala 
 peta tersebut jika berdasarkan satuan cm?
-![image]( 
+![image](https://github.com/IsmedQalyubi/9.Praktikum-Individu/blob/main/Capture%203.PNG) 
 ![image]( 
 2. Dalam sebuah peta memiliki skala 1:5.000.000, jarak antara Seteng dan Labuhan Badas 
 adalah 20 cm. Berapakah jarak sesungguhnya antara Seteng dan Labuhan Badas?
